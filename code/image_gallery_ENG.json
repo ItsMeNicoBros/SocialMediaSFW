@@ -819,5 +819,38 @@
          "NICOBROS",
          "MALE"
       ]
-   }
+   },
+   {
+      "thumbnail":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Yinn_Reference_Original_Preview.png",
+      "url":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Yinn_Reference_Original.png",
+      "tags":[
+         "(TYPE) IMAGE",
+         "(TYPE) OC",
+         "(TYPE) ORIGINAL ART",
+         "(YEAR) 2024",
+         "(TYPE) 2D",
+         "(TYPE) PIXEL-ART",
+         "HAS BG",
+         "PEOPLE: SOLO",
+         "YINN",
+         "GOTH",
+         "FEMALE"
+      ]
+   },
+   {
+      "thumbnail":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Yinn_Drawing_Preview.png",
+      "url":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Yinn_Drawing.png",
+      "tags":[
+         "(TYPE) IMAGE",
+         "(TYPE) OC",
+         "(TYPE) ORIGINAL ART",
+         "(YEAR) 2024",
+         "(TYPE) 2D",
+         "HAS BG",
+         "PEOPLE: SOLO",
+         "YINN",
+         "GOTH",
+         "FEMALE"
+      ]
+   },
 ]

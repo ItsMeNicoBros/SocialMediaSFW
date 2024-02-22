@@ -770,8 +770,8 @@
    "thumbnail":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/AwesomeSuperSonic_Lila_Commission_1_Preview.png",
    "url":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/AwesomeSuperSonic_Lila_Commission_1.png",
    "tags":[
-      "(TIPO) IMAGE",
-      "(TIPO) COMMISSION",
+      "(TIPO) IMAGEM",
+      "(TIPO) COMISSÃO",
       "(ANO) 2023",
       "(TIPO) 3D",
       "RENDER",
@@ -788,8 +788,8 @@
    "thumbnail":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/AwesomeSuperSonic_Lila_Commission_2_Preview.png",
    "url":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/AwesomeSuperSonic_Lila_Commission_2.png",
    "tags":[
-      "(TIPO) IMAGE",
-      "(TIPO) COMMISSION",
+      "(TIPO) IMAGEM",
+      "(TIPO) COMISSÃO",
       "(ANO) 2023",
       "(IDADE) 12+",
       "(TIPO) 3D",
@@ -802,5 +802,55 @@
       "(ORIGEM) SR PELO",
       "LILA"
    ]
-}
+},
+
+   {
+      "thumbnail":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/NothingMatters2_Preview.png",
+      "url":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/NothingMatters2.png",
+      "tags":[
+         "(TIPO) IMAGE",
+         "(TIPO) ARTE ORIGINAL",
+         "(IDADE) 12+",
+         "(ANO) 2024",
+         "(TIPO) 2D",
+         "ARMA",
+         "TEM BG",
+         "PESSOA: SOLO",
+         "NICOBROS",
+         "HOMEM"
+      ]
+   },
+   {
+      "thumbnail":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Yinn_Reference_Original_Preview.png",
+      "url":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Yinn_Reference_Original.png",
+      "tags":[
+         "(TIPO) IMAGEM",
+         "(TIPO) OC",
+         "(TIPO) ARTE ORIGINAL",
+         "(ANO) 2024",
+         "(TIPO) 2D",
+         "(TIPO) PIXEL-ART",
+         "TEM BG",
+         "PESSOA: SOLO",
+         "YINN",
+         "GÓTICA",
+         "MULHER"
+      ]
+   },
+   {
+      "thumbnail":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Yinn_Drawing_Preview.png",
+      "url":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Yinn_Drawing.png",
+      "tags":[
+         "(TIPO) IMAGEM",
+         "(TIPO) OC",
+         "(TIPO) ARTE ORIGINAL",
+         "(ANO) 2024",
+         "(TIPO) 2D",
+         "TEM BG",
+         "PESSOA: SOLO",
+         "YINN",
+         "GÓTICA",
+         "MULHER"
+      ]
+   },
 ]
