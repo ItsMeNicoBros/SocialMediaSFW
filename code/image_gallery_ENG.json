@@ -78,7 +78,6 @@
          "(BG) YES",
          "(ENTITY) NICOBROS",
          "(PEOPLE) SOLO",
-         "LABORATORY",
          "(GENDER: MALE)",
          "(VERSION) 5.5",
          "(COSPLAY)"
@@ -839,7 +838,7 @@
          "(PEOPLE) SOLO",
          "(ENTITY) NICOSIS",
          "(BG) YES",
-         "GENDER) FEMALE)"
+         "(GENDER) FEMALE)"
       ]
    },
    {
