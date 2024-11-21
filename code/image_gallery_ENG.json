@@ -897,5 +897,20 @@
       "(GENDER) MALE",
       "(ENTITY) RED"
     ]
+  },
+  {
+    "thumbnail": "https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Psy_Preview.png",
+    "url": "https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Psy.png",
+    "tags": [
+      "(TYPE) IMAGE",
+      "(TYPE) FANART",
+      "(YEAR) 2020",
+      "(TYPE) 3D",
+      "(PEOPLE) SOLO",
+      "(ORIGIN) PSY",
+      "(BG) NO",
+      "(GENDER) MALE",
+      "(ENTITY) PSY"
+    ]
   }
 ]
