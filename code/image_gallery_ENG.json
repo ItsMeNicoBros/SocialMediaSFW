@@ -160,7 +160,7 @@
          "(CLIENT) SLIMEAKKU",
          "(BG) NO",
          "(GENDER) FEMALE",
-         "(ENTITY) MUCKAYLA",
+         "(ENTITY) MUCKAYLA"
       ]
    },
    {
@@ -176,7 +176,7 @@
          "(CLIENT) SLIMEAKKU",
          "(BG) NO",
          "(GENDER) FEMALE",
-         "(ENTITY) MUCKAYLA",
+         "(ENTITY) MUCKAYLA"
       ]
    },
    {
@@ -192,7 +192,7 @@
          "(CLIENT) SLIMEAKKU",
          "(BG) NO",
          "(GENDER) FEMALE",
-         "(ENTITY) MUCKAYLA",
+         "(ENTITY) MUCKAYLA"
       ]
    },
    {
@@ -208,7 +208,7 @@
          "(CLIENT) SLIMEAKKU",
          "(BG) NO",
          "(GENDER) FEMALE",
-         "(ENTITY) MUCKAYLA",
+         "(ENTITY) MUCKAYLA"
       ]
    },
    {
@@ -319,7 +319,7 @@
          "(PEOPLE) SOLO",
          "(CLIENT) TEMPORARYALIEN",
          "(BG) NO",
-         "(GENDER) MALE",
+         "(GENDER) MALE"
       ]
    },
    {
@@ -544,7 +544,7 @@
          "(PEOPLE) SOLO",
          "(CLIENT) MISTER PRAWN",
          "(BG) NO",
-         "(GENDER) FEMALE"
+         "(GENDER) FEMALE",
          "(ENTITY) MADELINE",
          "(ORIGIN) CELESTE"
       ]
@@ -560,7 +560,7 @@
          "(PEOPLE) SOLO",
          "(CLIENT) MISTER PRAWN",
          "(BG) NO",
-         "(GENDER) FEMALE"
+         "(GENDER) FEMALE",
          "(ENTITY) MADELINE",
          "(ORIGIN) CELESTE"
    ]
@@ -576,7 +576,7 @@
          "(PEOPLE) SOLO",
          "(CLIENT) MISTER PRAWN",
          "(BG) NO",
-         "(GENDER) FEMALE"
+         "(GENDER) FEMALE",
          "(ENTITY) BADELINE",
          "(ORIGIN) CELESTE"
    ]
@@ -592,7 +592,7 @@
          "(PEOPLE) SOLO",
          "(CLIENT) MISTER PRAWN",
          "(BG) NO",
-         "(GENDER) FEMALE"
+         "(GENDER) FEMALE",
          "(ENTITY) BADELINE",
          "(ORIGIN) CELESTE"
    ]
@@ -825,7 +825,7 @@
          "(ENTITY) ANNA-LOGUE",
          "(ENTITY) TF2'S PYRO",
          "(ENTITY) TF2'S DEMOMAN",
-      "(ORIGIN) THE BATTLE CATS",
+      "(ORIGIN) THE BATTLE CATS"
       ]
    },
    {
