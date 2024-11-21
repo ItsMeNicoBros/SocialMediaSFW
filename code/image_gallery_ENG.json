@@ -1749,5 +1749,21 @@
       "(GENDER) MALE",
       "(ENTITY) ZOINKSZUBEN"
     ]
+  },
+  {
+    "thumbnail": "https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Godzilla_Red_Preview.png",
+    "url": "https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Godzilla_Red.png",
+    "tags": [
+      "(TYPE) IMAGE",
+      "(TYPE) FANART",
+      "(YEAR) 2024",
+      "(TYPE) 3D",
+      "(PEOPLE) SOLO",
+      "(ORIGIN) GODZILLA NES CREEPYPASTA",
+      "(ORIGIN) GODZILLA",
+      "(BG) NO",
+      "(GENDER) MALE",
+      "(ENTITY) RED"
+    ]
   }
 ]
