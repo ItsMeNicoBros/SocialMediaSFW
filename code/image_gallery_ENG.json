@@ -78,7 +78,7 @@
          "(BG) YES",
          "(ENTITY) NICOBROS",
          "(PEOPLE) SOLO",
-         "(GENDER: MALE)",
+         "(GENDER) MALE",
          "(VERSION) 5.5",
          "(COSPLAY)"
       ]
@@ -109,7 +109,7 @@
          "(PEOPLE) SOLO",
          "(ENTITY) NICOBROS",
          "(BG) NO",
-         "(GENDER) MALE)",
+         "(GENDER) MALE",
          "(VERSION) 6.0"
       ]
    },
@@ -332,7 +332,7 @@
          "(PEOPLE) SOLO",
          "(ORIGIN) MORS",
          "(BG) NO",
-         "(GENDER) FEMALE)",
+         "(GENDER) FEMALE",
          "(GENDER) GENDERBEND",
          "(TYPE) JOKE/PARODY",
          "(ENTITY) MORSETTE"
@@ -349,7 +349,7 @@
          "(PEOPLE) SOLO",
          "(ORIGIN) MORS",
          "(BG) NO",
-         "(GENDER) FEMALE)",
+         "(GENDER) FEMALE",
          "(GENDER) GENDERBEND",
          "(TYPE) JOKE/PARODY",
          "(ENTITY) MORSETTE"
@@ -366,7 +366,7 @@
          "(PEOPLE) SOLO",
          "(ORIGIN) MORS",
          "(BG) YES",
-         "(GENDER) FEMALE)",
+         "(GENDER) FEMALE",
          "(GENDER) GENDERBEND",
          "(TYPE) JOKE/PARODY",
          "(ENTITY) MORSETTE"
@@ -793,8 +793,8 @@
          "(TYPE) 2D",
          "(PEOPLE) MULTI",
          "(BG) YES",
-         "(GENDER) MALE)",
-         "(GENDER) FEMALE)",
+         "(GENDER) MALE",
+         "(GENDER) FEMALE",
          "@JAZVASKETCHER",
          "@DR_ROSEMARY_",
          "@YERKDIFF",
@@ -838,7 +838,7 @@
          "(PEOPLE) SOLO",
          "(ENTITY) NICOSIS",
          "(BG) YES",
-         "(GENDER) FEMALE)"
+         "(GENDER) FEMALE",
       ]
    },
    {
