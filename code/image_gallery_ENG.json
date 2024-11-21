@@ -855,5 +855,20 @@
          "(GENDER) MALE",
          "(ENTITY) HARMOKINESIS"
       ]
+   },
+   {
+      "thumbnail":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Anime_Dude_Preview.png",
+      "url":"https://raw.githubusercontent.com/ItsMeNicoBros/SocialMediaSFW/main/image%20gallery/Anime_Dude.png",
+      "tags":[
+         "(TYPE) IMAGE",
+         "(TYPE) OC",
+         "(TYPE) ORIGINAL ART",
+         "(YEAR) 2020",
+         "(TYPE) 3D",
+         "(BG) NO",
+         "(PEOPLE) SOLO",
+         "(ENTITY) ANIME DUDE",
+         "(GENDER) MALE"
+      ]
    }
 ]
